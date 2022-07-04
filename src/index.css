@@ -1,0 +1,43 @@
+.App{
+    background: -o-linear-gradient(top, #ffffff 0%, #f0f1ff 100%);
+    background: linear-gradient(180deg, #ffffff 0%, #f0f1ff 100%);
+     padding: 20px;
+     font-family: 'outfit', sans-serif;
+   }
+ 
+   .h3{
+   padding-top: 20px;
+   font-weight: 900 !important;
+    font-size: 900px !important;
+    font-family: 'outfit', sans-serif;
+ 
+    
+  }
+  .top-btn{
+    border: none;
+    font-size: 20px;
+    font-weight: 500;
+    background-color:#13183f;
+    border-radius: 30px;
+    padding: 15px;
+    color: #FFFFFF;
+  }
+  img{
+    width: 10px;
+  }
+ 
+ .back-img{
+   /* width: 500px;
+   height: 900px; */
+   position: relative;
+   top: -274px;
+   left: 50px;
+   right: 300px;
+    /* border: 2px solid red; */
+  }
+  @media screen and (max-width: 800px) {
+    /* img{
+      width: 200px;
+      display: flex;
+    } */
+  }
